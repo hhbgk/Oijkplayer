@@ -1,4 +1,4 @@
-package com.open.ijkplayer;
+package com.open.player;
 
 import org.junit.Test;
 
